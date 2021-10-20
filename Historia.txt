@@ -1,1 +1,4 @@
 History k3po
+
+Inicio.
+"Los comienzos de este androide pro galaxia!"
